@@ -15,4 +15,6 @@ Short and usefull code snippets for the python and data science community, topic
 
 And more!
 
-![Diagram](./pandas/replace.png?style=centerme)
+![Numpy_randint](./numpy/randint.png?style=centerme)
+
+![Pandas_replace](./pandas/replace.png?style=centerme)
