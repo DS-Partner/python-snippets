@@ -1,5 +1,5 @@
 # python-snippets
-Short and usefull code snippets for the python and data science community, topics to cover:
+Short and useful code snippets for the python and data science community, topics to cover:
 
 :hammer: Data Wrangling
 
