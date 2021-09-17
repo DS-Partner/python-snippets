@@ -1,4 +1,4 @@
-# Get top N (10) records from colomn 'Income'
+# Get top N (10) records by 'Income'
 
 import pandas as pd
 
